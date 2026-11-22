@@ -1,0 +1,9 @@
+{
+  "uuid": "notif-sound@einsa",
+  "name": "Notification Sound Router",
+  "description": "Plays a fallback event chime through the Notifications role sink for desktop notifications without sound hints.",
+  "shell-version": [
+    "51"
+  ],
+  "version": 1
+}
